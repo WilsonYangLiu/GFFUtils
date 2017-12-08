@@ -2,3 +2,5 @@
 .\#*
 *~
 *.pyc
+GFFUtils/Homo_sapiens.NCBI36.46.gtf
+enst2symbol*.tsv
